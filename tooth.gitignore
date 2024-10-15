@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+secrets.json
+
+Thumbs.db
+
+.idea/
+.vscode/
